@@ -33,6 +33,7 @@
 </p>
 
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya-agarwal&show_icons=true&hide_border=true)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-agarwal&layout=compact&langs_count=8"/>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=nord)
