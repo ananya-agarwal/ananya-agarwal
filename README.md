@@ -38,5 +38,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-[![Profile last updated](https://img.shields.io/github/last-commit/ananya-agarwal/ananya-agarwal/master?label=Last%20updated&style=flat)](https://github.com/ananya-agarwal/ananya-agarwal/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/ananya-agarwal/master?label=Last%20updated&style=flat)](https://github.com/ananya-agarwal/commits)
 
