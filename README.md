@@ -35,3 +35,4 @@
 
 <br></br>
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya-agarwal&count_private=true&theme=radical)
+![](https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
