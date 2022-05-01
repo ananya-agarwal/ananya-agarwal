@@ -1,19 +1,18 @@
 
-  # Hola! I am Ananya Agarwal <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+# Hola! I am Ananya Agarwal <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-  - 🔭 I’m currently working on Data Structures and CSS 
-  - 🌱 I’m currently learning ML and AI for NLP 
-  - 👯 I’m looking to collaborate on Kaggle Projects (ML) 
-  - 🤔 I’m looking for help with staying positive and ways to reduce overthinking
-  - 💬 Ask me about Data Structures 
-  - 😄 Pronouns: She/Her
-  - ⚡ Fun fact: If you pull a shark backwards by its tail it dies
-
+- 🔭 I’m currently working on Data Structures and CSS 
+- 🌱 I’m currently learning ML and AI for NLP 
+- 👯 I’m looking to collaborate on Kaggle Projects (ML) 
+- 🤔 I’m looking for help with staying positive and ways to reduce overthinking
+- 💬 Ask me about Data Structures 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: If you pull a shark backwards by its tail it dies.
 <hr>
 <p align="center">
 <h2 align="left">📫 How to reach me:</h2>
 <a href="https://www.linkedin.com/in/ananya-agarwal06/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ananyaag06@gmail.com" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/40/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/>
+<a href="mailto:ananyaag06@gmail.com" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/>
 <hr>
 </p>
 
@@ -33,13 +32,6 @@
 <code><img width="40" height="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
-<a  href="https://github.com/ananya-agarwal">
-
-<img src="https://raw.githubusercontent.com/ananya-agarwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/ananya-agarwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/ananya-agarwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
 
 <br></br>
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya-agarwal&count_private=true&theme=radical)
