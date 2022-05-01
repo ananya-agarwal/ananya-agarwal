@@ -12,6 +12,7 @@
 <p align="center">
 <h2 align="left">📫 How to reach me:</h2>
 <a href="https://www.linkedin.com/in/ananya-agarwal06/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ananyaag06@gmail.com" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/40/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/>
 <hr>
 </p>
 
