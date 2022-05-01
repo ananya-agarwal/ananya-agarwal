@@ -33,10 +33,9 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 
-![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya-agarwalsb&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-agarwalsb&layout=compact&langs_count=8"/>
+![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya-agarwal&show_icons=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-agarwal&layout=compact&langs_count=8"/>
 
-<p>
 ![](https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-</p>
+
 
