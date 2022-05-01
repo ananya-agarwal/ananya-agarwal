@@ -1,5 +1,5 @@
 
-# Hola! I am Ananya Agarwal <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+######Hola! I am Ananya Agarwal <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <img src="https://github.com/ananya-agarwal/ananya-agarwal/blob/main/ananya%20profile.gif" width=384>
 
 - 🔭 I’m currently working on Data Structures and CSS 
