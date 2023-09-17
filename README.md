@@ -2,11 +2,11 @@
  <br>
 <img src="https://github.com/ananya-agarwal/ananya-agarwal/blob/main/ananya%20profile.gif" width=384>
 
-- 🔭 I’m currently working on Data Structures and CSS 
-- 🌱 I’m currently learning ML and AI  
-- 👯 I’m looking to collaborate on Kaggle Projects (ML) 
+- 🔭 I’m currently working on Python, JS, React, ML
+- 🌱 I’m currently learning about LLMs
+- 👯 I’m looking to collaborate on some different projects
 - 🤔 I’m looking for help with staying positive and ways to reduce overthinking
-- 💬 Ask me about Data Structures 
+- 💬 Ask me about whatever you feel will add to both of ours knowledge (in some positive way)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The Firefox logo isn’t a fox… it’s a red panda!
 <hr>
