@@ -2,8 +2,8 @@
  <br>
 <img src="https://github.com/ananya-agarwal/ananya-agarwal/blob/main/ananya%20profile.gif" width=384>
 
-- 🔭 I’m currently working on Python, JS, React, ML
-- 🌱 I’m currently learning about LLMs
+- 🔭 I’m currently working as a "software developer" for Cloudera Data Platform Pvt Ltd
+- 🌱 I’m currently learning about LLMs and advance of Python, JS, React, ML
 - 👯 I’m looking to collaborate on some different projects
 - 🤔 I’m looking for help with staying positive and ways to reduce overthinking
 - 💬 Ask me about whatever you feel will add to both of ours knowledge (in some positive way)
